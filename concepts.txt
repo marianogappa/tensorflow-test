@@ -1,0 +1,12 @@
+Multinomial logistic classification
+Logits
+Softmax
+Tensor
+one-hot vectors
+learning rate
+regularisation / numerical stability
+cross-entropy: loss (minimised with gradient descent)
+classification
+regression
+weight and bias as parameters of the linear model
+overfitting and bias
